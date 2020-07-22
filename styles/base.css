@@ -78,6 +78,16 @@ iframe {
   text-align: center;
 }
 
+.banner-text {
+  display: inline-block;
+  margin: auto;
+  padding: 3rem;
+  font-size: 2.5rem;
+  width: auto;
+  background: #b296d8;
+  border: 15px solid black;
+}
+
 .profile-img {
 max-height: 33vh;
 width: auto;
