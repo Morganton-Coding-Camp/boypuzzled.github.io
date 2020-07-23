@@ -102,7 +102,17 @@ border-radius: 50%;
   padding-left: 80px;*/
 }
 
+.boy-2 {
+  background: #b5c6e5;
+  color: black;
+}
 
+.boy-3 {
+  background: #bcb5e5;
+  color: black;
+  /*border-bottom-right-radius: 50%;
+  border-top-right-radius: 50%;*/
+}
 
 
 
