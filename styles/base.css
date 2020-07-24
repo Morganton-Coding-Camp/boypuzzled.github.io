@@ -131,7 +131,7 @@ border-radius: 50%;
     transition: all .5s ease;
 }
 .btn: hover {
-  border: 10px solid #color;
+  border: 10px solid #b296d8;
   border-radius: 1rem;
   letter-spacing: 4px;
   opacity: .5;
