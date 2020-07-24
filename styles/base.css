@@ -122,18 +122,18 @@ border-radius: 50%;
     padding:2rem 5rem;
     background: #3c63aa;
     color: #b296d8;
-    fontsize: 2rem;
+    font-size: 2rem;
     border-radius: .25rem;
-    letter spacing:2px;
-    text transformation: uppercase;
+    letter-spacing:2px;
+    text-transformation: uppercase;
     text-decoration: none;
     border: 2px double #b296d8;
     transition: all .5s ease;
 }
 .btn: hover {
   border: 10px solid #color;
-  border radius: 1rem;
-  letter spacing: 4px;
+  border-radius: 1rem;
+  letter-spacing: 4px;
   opacity: .5;
 }
     
